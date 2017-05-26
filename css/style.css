@@ -1,0 +1,23 @@
+body{
+  background: #abc;
+  background-attachment: fixed;
+  background-position: ;
+background-repeat: repeat;
+ }
+
+ div.about-me{color: green}
+ div.david{color:green}
+
+ nav ul{
+   list-style: none;
+   background-color: pink;
+ }
+ nav ul li{
+   display: inline-block;
+ }
+ nav ul li{
+   padding: 25px 55px;
+ }
+nav ul li:hover{
+  color:blue;
+}
